@@ -16,9 +16,9 @@ import org.junit.Before;
 import org.junit.BeforeClass;
 import org.junit.Test;
 
+import com.msalinas.load.LoadData;
 import com.msalinas.record.BuildRecord;
 import com.msalinas.record.Record;
-import com.salinas.load.LoadData;
 
 public class LoadDataTest {
 	

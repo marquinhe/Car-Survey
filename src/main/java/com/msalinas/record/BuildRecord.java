@@ -2,8 +2,8 @@ package com.msalinas.record;
 
 import java.util.Queue;
 
+import com.msalinas.load.ReadingParser;
 import com.msalinas.validation.BadInputFileException;
-import com.salinas.load.ReadingParser;
 
 
 /**

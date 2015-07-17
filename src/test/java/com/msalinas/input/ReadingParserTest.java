@@ -4,8 +4,8 @@ import static org.junit.Assert.*;
 
 import org.junit.Test;
 
+import com.msalinas.load.ReadingParser;
 import com.msalinas.validation.BadInputFileException;
-import com.salinas.load.ReadingParser;
 
 public class ReadingParserTest {
 

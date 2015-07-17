@@ -1,4 +1,4 @@
-package com.salinas.load;
+package com.msalinas.load;
 
 import com.msalinas.validation.BadInputFileException;
 
