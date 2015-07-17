@@ -11,6 +11,10 @@ Usage -> This will run the application and all unit tests
 -------------------------
 
 Eclipse: 
+- 
+
+- Clone repo: git clone https://github.com/marquinhe/msalinas.git
+
 - Import Maven project 
 
 - Right click on main project folder --> Run as --> Maven Test 
@@ -20,10 +24,14 @@ Eclipse:
 
 Maven Console: 
 
-On directory:mvn test 
+- Clone repo: git clone https://github.com/marquinhe/msalinas.git
+
+- cd msalinas 
+
+- mvn test
 
 -------------------------
-Parameters
+Parameters (input file)
 -------------------------
 
 By default the tool reads file data.txt 9 included)
